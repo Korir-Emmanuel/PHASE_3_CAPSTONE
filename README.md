@@ -150,9 +150,7 @@ Automate responses to prevent churn before it happens.
 
 How to Run the Project
 
-1. Install Dependencies
-
-pip install -r requirements.txt
+1. Install code editor/use Google Colab.
 
 2. Run Jupyter Notebook
 
